@@ -1,1 +1,3 @@
 venv/
+copilot/.workspace # Stores local metadata, safe to ignore
+copilot/{env}/.workspace # Per-environment metadata
